@@ -1,12 +1,14 @@
 <h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">Cybersecurity Analyst</h1>
 
 
-<h2>👨‍💻 CYBERSECURITY PROJECTS:</h2>
+<h2>👨‍💻 CYBERSECURITY PROJECT:</h2>
 
 - <b>CYBERSECURITY LAB</b>
   - [Hyper-V VM Lab set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  -->
 
 - <b>CERTIFICATIONS</b>
   - [Certified Ethical Hacker (CEH), EC-Council](https://drive.google.com/file/d/1Mk4064N-f1ltDf4mzQJnI_BjwOgteDJ_/view?usp=share_link)
