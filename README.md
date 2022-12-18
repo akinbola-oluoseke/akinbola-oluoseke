@@ -4,7 +4,7 @@
 <h2>👨‍💻 CYBERSECURITY PROJECTS:</h2>
 
 - <b>CYBERSECURITY LAB</b>
-  - [Hyper-V Lab (recreated)](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  - [Hyper-V VM Lab set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
