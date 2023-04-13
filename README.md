@@ -1,14 +1,23 @@
-<h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">Cybersecurity Analyst</h1>
+<h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">IT and CyberSecurity Professional</h1>
 
+<h2>💻 INFORMATION TECHNOLOGY PROJECTS</h2> 
 
-<h2>👨‍💻 CYBERSECURITY PROJECT:</h2>
-
-- <b>CYBERSECURITY LAB</b>
-  - [Hyper-V VM Lab set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+- <b>IT HELP DESK LAB</b>
+  - [Basic Help Desk Network Utilities](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  - [Help Desk Ticketing System - osTicket](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  - [Microsoft Azure Resource Group and Virtual Machine setup](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   -->
+  
+<h2>🖥 CYBERSECURITY PROJECT:</h2>
+
+- <b>CYBERSECURITY LAB</b>
+  - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  - [Active Directory Configuration and Access Management (On-premises within Azure)
+](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+ 
 
 - <b>CERTIFICATIONS</b>
   - [Certified Ethical Hacker (CEH), EC-Council](https://drive.google.com/file/d/1Mk4064N-f1ltDf4mzQJnI_BjwOgteDJ_/view?usp=share_link)
