@@ -4,7 +4,7 @@
 
 - <b>IT HELP DESK LAB</b>
   - [Basic Help Desk Network Utilities](https://github.com/akaybabyfaze/Basic-Help-Desk-Network-Utilities)
-  - [Help Desk Ticketing System - osTicket](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  - [Help Desk Ticketing System - osTicket](https://github.com/akaybabyfaze/Help-Desk-Ticketing-System)
   - [Microsoft Azure Resource Group and Virtual Machine setup](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
