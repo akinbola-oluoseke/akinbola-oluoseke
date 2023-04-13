@@ -3,7 +3,7 @@
 <h2>💻 INFORMATION TECHNOLOGY PROJECTS</h2> 
 
 - <b>IT HELP DESK LAB</b>
-  - [Basic Help Desk Network Utilities](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+  - [Basic Help Desk Network Utilities](https://github.com/akaybabyfaze/Basic-Help-Desk-Network-Utilities)
   - [Help Desk Ticketing System - osTicket](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   - [Microsoft Azure Resource Group and Virtual Machine setup](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   <!--
