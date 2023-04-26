@@ -1,4 +1,4 @@
-<h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">IT and CyberSecurity Professional</h1>
+<h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">IT Professional and CyberSecurity Analyst</h1>
 
 <h2>💻 INFORMATION TECHNOLOGY PROJECTS</h2> 
 
