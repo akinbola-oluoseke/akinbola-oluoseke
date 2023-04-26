@@ -16,7 +16,7 @@
 - <b>CYBERSECURITY LAB</b>
   - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   - [Active Directory Configuration and Access Management (On-premises within Azure)
-](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
+](https://github.com/akaybabyfaze/Active-Directory-Config)
  
 
 - <b>CERTIFICATIONS</b>
