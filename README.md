@@ -2,7 +2,7 @@
 
 <h2>💻 INFORMATION TECHNOLOGY PROJECTS</h2> 
 
-- <b>IT HELP DESK LAB</b>
+- <b>IT HELP DESK</b>
   - [Basic Help Desk Network Utilities](https://github.com/akaybabyfaze/Basic-Help-Desk-Network-Utilities)
   - [Help Desk Ticketing System - osTicket](https://github.com/akaybabyfaze/Help-Desk-Ticketing-System)
   - [Microsoft Azure Cloud Platform and Virtual Machine setup](https://github.com/akaybabyfaze/Microsoft-Azure-Cloud-VM-setup)
@@ -11,9 +11,9 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   -->
   
-<h2>🖥 CYBERSECURITY PROJECT:</h2>
+<h2>🖥 CYBERSECURITY PROJECTS:</h2>
 
-- <b>CYBERSECURITY LAB</b>
+- <b>CYBERSECURITY</b>
   - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   - [Active Directory Configuration and Access Management (On-premises within Azure)
 ](https://github.com/akaybabyfaze/Active-Directory-Config)
@@ -28,12 +28,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Akinbola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Akinbola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [twitter]: https://twitter.com/Ak_babyfaze
 [linkedin]: https://www.linkedin.com/in/akinbola-oluoseke-ceh-csa-mba
 <!--
+[<img align="left" alt="Akinbola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 **akaybabyfaze/akaybabyfaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
