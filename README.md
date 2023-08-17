@@ -1,4 +1,4 @@
-<h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">IT Professional and CyberSecurity Analyst</h1>
+<h1>Hi, this is Akinbola <br/><a href="https://github.com/Akinbola(akaybabyfaze)">IT Professional </h1>
 
 <h2>💻 INFORMATION TECHNOLOGY PROJECTS</h2> 
 
@@ -11,18 +11,15 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   -->
   
-<h2>🖥 CYBERSECURITY PROJECTS:</h2>
+<h2>🖥 PROJECTS:</h2>
 
-- <b>CYBERSECURITY</b>
   - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   - [Active Directory Configuration and Access Management (On-premises within Azure)
 ](https://github.com/akaybabyfaze/Active-Directory-Config)
  
 
 - <b>CERTIFICATIONS</b>
-  - [Certified Ethical Hacker (CEH), EC-Council](https://drive.google.com/file/d/1Mk4064N-f1ltDf4mzQJnI_BjwOgteDJ_/view?usp=share_link)
   - [Certified in Cybersecurity, (ISC)2](https://drive.google.com/file/d/10tqJ0p1iwRf1wzatPD9x84sWlTY7XaTF/view?usp=share_link)
-  - [Certified SOC Analyst (CSA), EC-Council](https://drive.google.com/file/d/1kBaOTtTJ-SxTM53T7eL7g7ZDt0yZgY2o/view?usp=share_link)
   - [Information Technology Professional, ICTC-CTIC, Canada](https://drive.google.com/file/d/1uAG5Et6gtaO0XER3rqq97UYvjxRm53Ib/view?usp=share_link)
 
 <h2> 🤳 Connect with me:</h2>
