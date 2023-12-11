@@ -6,18 +6,13 @@
   - [Basic Help Desk Network Utilities](https://github.com/akaybabyfaze/Basic-Help-Desk-Network-Utilities)
   - [Help Desk Ticketing System - osTicket](https://github.com/akaybabyfaze/Help-Desk-Ticketing-System)
   - [Microsoft Azure Cloud Platform and Virtual Machine setup](https://github.com/akaybabyfaze/Microsoft-Azure-Cloud-VM-setup)
-  <!--
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  -->
   
-<h2>🖥 PROJECTS:</h2>
-
+<h2>🖥 CYBERSECURITY PROJECTS:</h2>
+- <b>CYBERSECURITY</b>
   - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
   - [Active Directory Configuration and Access Management (On-premises within Azure)
 ](https://github.com/akaybabyfaze/Active-Directory-Config)
  
-
 - <b>CERTIFICATIONS</b>
   - [Certified in Cybersecurity, (ISC)2](https://drive.google.com/file/d/10tqJ0p1iwRf1wzatPD9x84sWlTY7XaTF/view?usp=share_link)
   - [Information Technology Professional, ICTC-CTIC, Canada](https://drive.google.com/file/d/1uAG5Et6gtaO0XER3rqq97UYvjxRm53Ib/view?usp=share_link)
