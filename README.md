@@ -8,10 +8,10 @@
   - [Microsoft Azure Cloud Platform and Virtual Machine setup](https://github.com/akaybabyfaze/Microsoft-Azure-Cloud-VM-setup)
   
 <h2>🖥 CYBERSECURITY PROJECTS:</h2>
+
 - <b>CYBERSECURITY</b>
   - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
-  - [Active Directory Configuration and Access Management (On-premises within Azure)
-](https://github.com/akaybabyfaze/Active-Directory-Config)
+  - [Active Directory Configuration and Access Management (On-premises within Azure)](https://github.com/akaybabyfaze/Active-Directory-Config)
  
 - <b>CERTIFICATIONS</b>
   - [Certified in Cybersecurity, (ISC)2](https://drive.google.com/file/d/10tqJ0p1iwRf1wzatPD9x84sWlTY7XaTF/view?usp=share_link)
