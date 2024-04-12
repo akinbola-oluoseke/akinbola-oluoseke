@@ -11,7 +11,7 @@
 
 - <b>CYBERSECURITY</b>
   - [Microsoft Hyper-V Virtual Machine set up](https://github.com/akaybabyfaze/Hyper-V-VM-Lab)
-  - [Active Directory Configuration and Access Management (On-premises within Azure)](https://github.com/akaybabyfaze/Active-Directory-Config)
+  - [Active Directory Installation, Configuration and Creation of New Users with PowerShell (On-premises within Azure)](https://github.com/akaybabyfaze/Active-Directory-Config)
  
 - <b>CERTIFICATIONS</b>
   - [Certified Ethical Hacker (CEH), EC-Council](https://drive.google.com/file/d/1Mk4064N-f1ltDf4mzQJnI_BjwOgteDJ_/view?usp=share_link)
